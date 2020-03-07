@@ -1,1 +1,1 @@
-# heart-disease-in-r
+# Heart Disease prediction in R using different machine learning models.
